@@ -21,7 +21,7 @@
 - seaborn
 - scikit-learn
 
-Установите зависимости с помощью команды:
+Установите библиотеки с помощью команды:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
